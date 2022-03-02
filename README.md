@@ -137,7 +137,7 @@ Modificar el Web service /user/{gender} para que a la información devuelta a ca
 
 * PUT - Edición
 
-Crear un Web service de tipo PUT en la ruta brand/ para editar una marca.
+Crear un Web service de tipo PUT en la ruta brand/ para editar una marca con control de nulos (si solo se pasa un parámetro, editar únicamente ese parámetro).
 
 --> REQUEST 
 ```js
