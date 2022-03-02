@@ -46,7 +46,9 @@ Actualmente los elementos de la tabla products no están relacionados con ningun
       "price":2900,
       "stock":8,
       "gender":1,
-      "brand":3
+      "brand":{
+        "id":3
+      }
     },
     {
       "id":2,
@@ -54,7 +56,9 @@ Actualmente los elementos de la tabla products no están relacionados con ningun
       "price":1200,
       "stock":4,
       "gender":2,
-      "brand":3
+      "brand":{
+        "id":3
+      }
     }
   ]
 }
